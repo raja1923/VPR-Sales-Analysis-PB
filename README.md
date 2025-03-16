@@ -14,10 +14,10 @@ I developed a comprehensive project in POWER BI,Creating multiple dashbord and v
 - <a href="https://github.com/raja1923/VPR-Sales-Analysis-PB/blob/main/suppliers.csv">Dataset</a>
 
 ##Questions
-Which product has the highest total sales?
-Which month recorded the highest number of orders?
-How does the sales distribution look across different product categories?
-Are there any seasonal trends or patterns visible in the sales data?
-What is the total number of unique products sold?
+-> Which product has the highest total sales?
+-> Which month recorded the highest number of orders?
+-> How does the sales distribution look across different product categories?
+-> Are there any seasonal trends or patterns visible in the sales data?
+-> What is the total number of unique products sold?
 
 
