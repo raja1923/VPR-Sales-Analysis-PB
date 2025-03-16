@@ -1,0 +1,11 @@
+EmployeeID,LastName,FirstName,Role,Hire Date,Sales 
+1,Davolio ,Nancy ,Sales Associate,03-01-2022,10000
+2,Fuller ,Andrew ,Sales Associate,04-01-2022,20500
+3,Leverling ,Janet ,Marketing  Associate,05-01-2022,40000
+4,Peacock ,Margaret ,Sales Associate,06-01-2022,34000
+5,Buchanan ,Steven ,Bill Counter Associate,07-01-2022,45000
+6,Suyama ,Michael ,Sales Associate,08-01-2022,36000
+7,King ,Robert ,Marketing  Associate,09-01-2022,56000
+8,Callahan ,Laura ,Marketing  Associate,10-01-2022,35000
+9,Dodsworth ,Anne ,Branch manager,11-01-2022,45000
+10,West ,Adam ,Sales manager,12-01-2022,36700
